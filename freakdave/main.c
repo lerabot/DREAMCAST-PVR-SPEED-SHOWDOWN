@@ -1,3 +1,8 @@
+/*
+Freakdave - 4 Dec 2020 - 1.5k Quad(Lighted-Textured) at 30ish FPS using GLdc 1.1
+This is slightly modified from the GLdc samples
+*/
+
 #include <kos.h>
 #include <stdio.h>
 
